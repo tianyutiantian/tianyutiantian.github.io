@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tianyutiantian.github.io</id>
-    <title>玩物尚志|</title>
-    <updated>2021-05-31T02:53:32.776Z</updated>
+    <title>玩物尚志</title>
+    <updated>2021-05-31T03:02:14.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tianyutiantian.github.io"/>
     <link rel="self" href="https://tianyutiantian.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>不见花开</subtitle>
     <logo>https://tianyutiantian.github.io/images/avatar.png</logo>
     <icon>https://tianyutiantian.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 玩物尚志|</rights>
+    <rights>All rights reserved 2021, 玩物尚志</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tianyutiantian.github.io/post/hello-gridea/</id>
