@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vvorg.cn</id>
+    <id>http://vvorg.cn</id>
     <title>玩物尚志</title>
-    <updated>2021-12-30T14:39:34.787Z</updated>
+    <updated>2021-12-30T14:40:13.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vvorg.cn"/>
-    <link rel="self" href="https://vvorg.cn/atom.xml"/>
+    <link rel="alternate" href="http://vvorg.cn"/>
+    <link rel="self" href="http://vvorg.cn/atom.xml"/>
     <subtitle>不见花开</subtitle>
-    <logo>https://vvorg.cn/images/avatar.png</logo>
-    <icon>https://vvorg.cn/favicon.ico</icon>
+    <logo>http://vvorg.cn/images/avatar.png</logo>
+    <icon>http://vvorg.cn/favicon.ico</icon>
     <rights>All rights reserved 2021, 玩物尚志</rights>
     <entry>
         <title type="html"><![CDATA[[转]小事 · 有家可归]]></title>
-        <id>https://vvorg.cn/post/xiao-shi-you-jia-ke-gui/</id>
-        <link href="https://vvorg.cn/post/xiao-shi-you-jia-ke-gui/">
+        <id>http://vvorg.cn/post/xiao-shi-you-jia-ke-gui/</id>
+        <link href="http://vvorg.cn/post/xiao-shi-you-jia-ke-gui/">
         </link>
         <updated>2021-06-26T04:00:09.000Z</updated>
         <summary type="html"><![CDATA[<p>成年独立后，父母家还是自己的家吗？</p>
@@ -21,7 +21,7 @@
         <content type="html"><![CDATA[<p>成年独立后，父母家还是自己的家吗？</p>
 <!-- more -->
 <p>本文转载自<a href="https://daily.zhihu.com/story/9737452">知乎日报</a> 仅供个人记录，不做其他用途<br>
-<img src="https://vvorg.cn/post-images/1624680104763.jpg" alt="小事 · 有家可归" loading="lazy"><br>
+<img src="http://vvorg.cn/post-images/1624680104763.jpg" alt="小事 · 有家可归" loading="lazy"><br>
 成年独立后，父母家还是自己的家吗？<br>
 作者 / 鱼三岁<br>
 不是了。</p>
@@ -36,8 +36,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[转]小事 · 吃得苦中苦，依旧普通人]]></title>
-        <id>https://vvorg.cn/post/zhuan-xiao-shi-chi-de-ku-zhong-ku-yi-jiu-pu-tong-ren/</id>
-        <link href="https://vvorg.cn/post/zhuan-xiao-shi-chi-de-ku-zhong-ku-yi-jiu-pu-tong-ren/">
+        <id>http://vvorg.cn/post/zhuan-xiao-shi-chi-de-ku-zhong-ku-yi-jiu-pu-tong-ren/</id>
+        <link href="http://vvorg.cn/post/zhuan-xiao-shi-chi-de-ku-zhong-ku-yi-jiu-pu-tong-ren/">
         </link>
         <updated>2021-06-21T01:24:20.000Z</updated>
         <summary type="html"><![CDATA[<p>如何看待拼多多回应员工离世：「我们心痛如绞，我们爱你，深深的想念你」，你有什么想说的？</p>
@@ -45,7 +45,7 @@
         <content type="html"><![CDATA[<p>如何看待拼多多回应员工离世：「我们心痛如绞，我们爱你，深深的想念你」，你有什么想说的？</p>
 <!-- more -->
 <p>本文转载自<a href="https://daily.zhihu.com/story/9731822">知乎日报</a> 仅供个人记录，不做其他用途<br>
-<img src="https://vvorg.cn/post-images/1624238731855.jpg" alt="" loading="lazy"><br>
+<img src="http://vvorg.cn/post-images/1624238731855.jpg" alt="" loading="lazy"><br>
 如何看待拼多多回应员工离世：「我们心痛如绞，我们爱你，深深的想念你」，你有什么想说的？<br>
 作者 / 崇九<br>
 我的同事猝死了。去年的某段时间我们曾经在一个组，她很优秀也很爱工作。依稀记得我们曾经在一起吃过饭。</p>
@@ -67,8 +67,8 @@
 <p>我们要求月报里写上自己本月的工时，如果没有超过三百小时，就会背锅，领导谈话，绩效最低。</p>
 <p>我之前几个月的工时都是 300+。</p>
 <p>唯一的缺点就是不敢请假，请了假的话，就怎么都达不到了。<br>
-<img src="https://vvorg.cn/post-images/1624238793622.jpg" alt="" loading="lazy"><br>
-<img src="https://vvorg.cn/post-images/1624238801325.jpg" alt="" loading="lazy"><br>
+<img src="http://vvorg.cn/post-images/1624238793622.jpg" alt="" loading="lazy"><br>
+<img src="http://vvorg.cn/post-images/1624238801325.jpg" alt="" loading="lazy"><br>
 疫情最严重的时候，领导给打电话，让回去上班，我就回上海了。</p>
 <p>一周六天上班，周六休息一天就躺着，什么都不想做。</p>
 <p>十五平米，看天色一点点暗下去。</p>
@@ -145,8 +145,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://vvorg.cn/post/hello-gridea/</id>
-        <link href="https://vvorg.cn/post/hello-gridea/">
+        <id>http://vvorg.cn/post/hello-gridea/</id>
+        <link href="http://vvorg.cn/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
