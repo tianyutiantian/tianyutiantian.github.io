@@ -8,15 +8,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://vvorg.cn/styles/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://vvorg.cn/favicon.ico?v=1640876216302">
+<link rel="shortcut icon" href="https://vvorg.cn/favicon.ico?v=1640933323253">
 <link rel="stylesheet" href="https://vvorg.cn/styles/main.css">
 
-
-  
-    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
-  
-
-  
 
 
 <link rel="stylesheet" href="https://vvorg.cn/styles/aos.css" />
@@ -41,7 +35,7 @@ Gridea 主页
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://vvorg.cn">
-        <img src="https://vvorg.cn/images/avatar.png?v=1640876216302" class="site-logo">
+        <img src="https://vvorg.cn/images/avatar.png?v=1640933323253" class="site-logo">
         <h1 class="site-title">玩物尚志</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -69,7 +63,13 @@ Gridea 主页
         
       
         
-          <a href="/post/about" class="site-nav">
+          <a href="https://vvorg.cn/post/jiang-dian-shi-me" class="site-nav" target="_blank">
+            讲点什么
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav" target="_blank">
             关于
           </a>
         
@@ -91,7 +91,24 @@ Gridea 主页
       
     </div>
     <div class="site-description">
-      不见花开
+      <Script Language="JavaScript">
+<!--
+var text=""; day = new Date( ); time = day.getHours( ); 
+if (( time>=0) && (time < 7 ))
+text="夜猫子，要注意身体哦！ "
+if (( time >= 7 ) && (time < 12))
+text="今天的阳光真灿烂啊，你那个朋友呢？"
+if (( time >= 12) && (time < 14))
+text="午休时间。您要保持睡眠哦！"
+if (( time >=14) && (time < 18))
+text="祝您下午工作愉快！ "
+if ((time >= 18) && (time <= 22))
+text="您又来了，可别和MM聊太久哦！"
+if ((time >= 22) && (time < 24))
+text="您应该休息了！"
+document.write(text)
+//--->
+</Script>
     </div>
     <div class="site-footer">
       Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://vvorg.cn/atom.xml" target="_blank">RSS</a>
@@ -145,12 +162,6 @@ Gridea 主页
             
 
             
-              
-                <div id="gitalk-container" data-aos="fade-in"></div>
-              
-
-              
-            
 
           </div>
 
@@ -178,29 +189,6 @@ var app = new Vue({
     hljs.initHighlightingOnLoad()
   </script>
 
-
-
-
-  
-    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-    <script>
-
-      var gitalk = new Gitalk({
-        clientID: '761386bb4122a3836304',
-        clientSecret: '15bd0922baf3487e8c125dc81e3c8914c5e41a94',
-        repo: 'tianyutiantian.github.io',
-        owner: 'tianyutiantian',
-        admin: ['tianyutiantian'],
-        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-      })
-
-      gitalk.render('gitalk-container')
-
-    </script>
-  
-
-  
 
 
 
